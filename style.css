@@ -1,0 +1,107 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: "Merriweather", serif;
+}
+.top-div {
+  background-color: #feffde;
+  margin-bottom: 120px;
+}
+
+.japan {
+  height: 250px;
+
+  position: absolute;
+  right: 100px;
+  top: 40px;
+}
+.name {
+  font-family: "Lobster Two", sans-serif;
+  color: #52734d;
+  font-size: 6em;
+  margin-bottom: 40px;
+}
+.title-text {
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+.hello {
+  margin: 25px 0;
+}
+
+.major {
+  font-family: "Open Sans", sans-serif;
+  color: #52734d;
+  font-size: 1.5em;
+}
+.japan2 {
+  height: 200;
+  position: absolute;
+  left: 100px;
+}
+
+.drawing {
+  height: 250px;
+  margin-top: 40px;
+}
+
+.my-face {
+  border-radius: 50%;
+}
+h2 {
+  color: #91c788;
+  font-size: 2.5em;
+  font-family: "Open Sans", sans-serif;
+}
+
+.middle-div p {
+  font-size: 1.5em;
+}
+hr {
+  border: dotted #52734d 6px;
+  width: 4%;
+  border-bottom: none;
+  margin: 100px auto;
+}
+
+.skill1 {
+  margin-top: 100px;
+  font-size: 1.3em;
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  column-gap: 40px;
+  row-gap: 40px;
+}
+.skill1 img {
+  height: 250px;
+  width: 100%;
+}
+
+h3 {
+  color: #91c788;
+  font-size: 1.3em;
+  font-family: "Open Sans", sans-serif;
+}
+
+.bottom {
+  background-color: #91c788;
+  margin-top: 200px;
+  padding-top: 50px;
+}
+
+a {
+  margin: 10px 20px;
+  text-decoration: none;
+  color: #ddffbc;
+  font-size: 1.1em;
+}
+
+footer {
+  color: #feffde;
+  padding: 30px 0 60px 0;
+  font-size: 1.1em;
+}
